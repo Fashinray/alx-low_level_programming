@@ -2,9 +2,10 @@
 /**
  * main -Entry point
  *
+ * Return: Always return 0 (success)
  */
 
-it main(void)
+int main(void)
 {
 	char c;
 

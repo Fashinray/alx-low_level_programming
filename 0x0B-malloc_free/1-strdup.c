@@ -2,11 +2,11 @@
 
 /**
  * _strdup - returns a pointer to a newly allocated
- * space in memory, which contains a copy of the 
+ * space in memory, which contains a copy of the
  * string given as a parameter.
- * @str:string to be copied
+ * @str:String to be copied
  *
- * Return: NULL in case of error, pointer to allocated
+ * Return: Null in case of error, pointer to allocated
  * space
  */
 

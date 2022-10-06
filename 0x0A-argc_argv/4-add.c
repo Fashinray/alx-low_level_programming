@@ -14,7 +14,7 @@ int check_num(char *str)
 {
 	unsigned int count;
 
-	cout = 0;
+	count = 0;
 	while (count < strlen(str))
 	{
 		if (!isdigit(str[count]))

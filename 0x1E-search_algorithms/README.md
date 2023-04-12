@@ -1,1 +1,1 @@
-Search Algorithm (Project)
+Search Algorithm (Projects)
